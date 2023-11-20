@@ -1,7 +1,7 @@
 # Bio
 professional profile 
 SUMMARY OF QUALIFICATIONS
-• Over 3 years of track record in Data Engineering, Data Governance, Data Quality Monitoring &
+• Over 3 years of track record in Data Engineering, Data Visualization, Data Governance, Data Quality Monitoring &
 Digital Automation and overall 5 Years of accumulated experience as Data Analyst/ Engineer
 with emphasis on Automation and Transformation rigorously focused on implementing Best
 processes and tools to facilitate and deliver targeted Projects.
